@@ -82,7 +82,7 @@ It enables users to interact with an intelligent assistant in real-time, featuri
 
 ### 💬 Chat Interface
 
-screenshot/Screenshot%202026-04-13%20072823.png
+screenshotScreenshot%202026-04-13%20072823.png
 ---
 
 ## ⏱️ Chat Flow
