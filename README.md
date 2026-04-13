@@ -16,14 +16,6 @@
 
 ---
 
-## 🏷️ Logo
-
-<p align="center">
-  <img src="static/images/logo.png" alt="Chatbot Logo" width="300">
-</p>
-
----
-
 ## 🚀 About the Project
 
 This **AI Chatbot** is a full-stack conversational system built using **Python (Flask)** and **Google Gemini API**.
@@ -89,7 +81,7 @@ It enables users to interact with an intelligent assistant in real-time, featuri
 ## 🖼️ Screenshots
 
 ### 💬 Chat Interface
-![Chat UI](Screenshots/chat_ui.png)
+
 
 ---
 
@@ -183,8 +175,7 @@ User → Frontend → Flask API → Gemini API → Database → Response
 chatbot/  
 ├── app.py  
 ├── templates/  
-│   └── index.html  
-├── static/  
+│   └── index.html    
 ├── chatbot.db  
 ├── Screenshots/  
 └── README.md  
